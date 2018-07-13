@@ -4,11 +4,23 @@ Package to convert CSV to JSON
 
 #### Create
 
+Linux/Mac
+
     mkdir ${GOPATH}/src/github.com/${username}/csv2json
+
+Windows
+
+    mkdir %GOPATH%\src\github.com\%username%\csv2json
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src/github.com/${username}/csv2json
+
+Windows
+
+    cd %GOPATH%\src\github.com\%username%\csv2json
 
 #### Edit
 
@@ -54,6 +66,8 @@ Package to convert CSV to JSON
     go install .
 
 #### Inspect
+
+Linux/Mac
 
     file ${GOPATH}/pkg/linux_amd64/github.com/${username}/csv2json.a
 

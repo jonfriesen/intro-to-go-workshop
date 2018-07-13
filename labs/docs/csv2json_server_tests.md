@@ -2,7 +2,13 @@
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src/github.com/${username}/csv2json-server
+
+Windows
+
+    cd %GOPATH%\src\github.com\%username%\csv2json-server
 
 #### Edit
 

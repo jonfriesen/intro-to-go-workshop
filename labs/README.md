@@ -1,6 +1,7 @@
 # Hands on Exercises
 
 - [Installing Go](docs/installing_go.md)
+- [Installing Go](docs/installing_go_windows.md)
 - [Hello World](docs/hello_world.md)
 - [Code Walkthrough](docs/pinger.md)
 - [Documenting with GoDoc](docs/godoc.md)

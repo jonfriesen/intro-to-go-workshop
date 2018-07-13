@@ -23,7 +23,13 @@ a build of Go that has CGO disabled. So if you are running on OSX, for exampple,
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src/github.com/${username}/csv2json-server
+
+Windows
+
+    cd %GOPATH%\src\github.com\%username%\csv2json-server
 
 #### Run
 

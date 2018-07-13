@@ -4,11 +4,23 @@ HTTP API to convert CSV to JSON
 
 #### Create
 
+Linux/Mac
+
     mkdir ${GOPATH}/src/github.com/${username}/csv2json-server
+
+Windows
+
+    mkdir %GOPATH%\src\github.com\%username%\csv2json-server
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src/github.com/${username}/csv2json-server
+
+Windows
+
+    cd %GOPATH%\src\github.com\%username%\csv2json-server
 
 #### Edit
 

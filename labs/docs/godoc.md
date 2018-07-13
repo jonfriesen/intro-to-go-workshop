@@ -4,9 +4,15 @@
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src
 
-#### Run
+Windows
+
+    cd %GOPATH%\src
+
+#### Run (Optional if you have the pinger code already)
 
     git clone https://github.com/kelseyhightower/pinger.git
 

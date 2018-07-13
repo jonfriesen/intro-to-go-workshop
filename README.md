@@ -1,16 +1,27 @@
 # Intro to Go Workshop
 
+## Original Author
+This workshop has been adapted from [Kelsey Hightower's Intro to Go workshop](https://github.com/kelseyhightower/intro-to-go-workshop).
+
 ## Requirements
 
 - [Git](http://git-scm.com)
 
-### Install Git (Linux)
+### Install Git
 
+#### Linux
     apt-get install git
+
+#### Windows
+[Git for Windows](https://git-scm.com/download/win)
 
 ### Set Environment Variables
 
+#### Linux/Mac
     export username=jonathan
+
+#### Windows
+    set username=jonathan
 
 ## Slides
 

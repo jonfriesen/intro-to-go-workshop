@@ -2,11 +2,23 @@
 
 #### Create
 
+Linux/Mac
+
     mkdir ${GOPATH}/src/hello
+
+Windows
+
+    mkdir %GOPATH%\src\hello
 
 #### Change Directory
 
+Linux/Mac
+
     cd ${GOPATH}/src/hello
+
+Windows
+
+    cd %GOPATH%\src\hello
 
 #### Edit
 
